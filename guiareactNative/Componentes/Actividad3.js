@@ -18,7 +18,7 @@ function Actividad3() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#51ff00ff',
+    backgroundColor: '#BA68C8 ',
     alignItems: 'center',
     justifyContent: 'center',
   },
